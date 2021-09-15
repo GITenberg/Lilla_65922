@@ -1,0 +1,32 @@
+_repo: Lilla_65922
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Biró, Lajos
+    alias: Biro, Lajos
+    birthdate: 1880
+    deathdate: 1948
+    gutenberg_agent_id: '51735'
+    url: http://www.gutenberg.org/2009/agents/51735
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Lajos_B%C3%ADr%C3%B3
+    - https://hu.wikipedia.org/wiki/B%C3%ADr%C3%B3_Lajos_(%C3%ADr%C3%B3)
+description: ''
+gutenberg_issued: '2021-07-26'
+identifiers:
+  gutenberg: '65922'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian drama'
+- !lcsh 'Short stories, Hungarian'
+- !lcc 'PH'
+- !lcsh 'Hungarian fiction'
+- GITenberg
+tableOfContents: Lilla -- Az Atlantik-hotel -- Móni -- Párbaj -- A millió -- Betörés
+  -- Elég! -- Baradlay kapitány -- A Csornay-család -- Férjhezadás -- Velencei kaland
+  -- Zsalud Sámuel -- Dömötörék és Sebőkék -- Bécsi interieur -- Falusi levél -- Bábi.
+title: Lilla
+url: http://www.gutenberg.org/ebooks/65922
